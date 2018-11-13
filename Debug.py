@@ -1,3 +1,4 @@
+#Copyright © 2018 JustAidanP. All rights reserved.
 import time, sys, os
 class Debug:
     #------Variables------
