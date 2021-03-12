@@ -1,4 +1,7 @@
+# Note: I would never recommend that this debug file be used, there are significantly better tools out there.  
+
 # DebugPython
+
 A Debugging module
 
 The static module must be placed with the python program project folder.
